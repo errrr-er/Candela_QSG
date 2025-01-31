@@ -8,7 +8,8 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: '暗烛快速入门指南', link: '/1' },
+      { text: '准备工作', link: '/2' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -26,7 +27,8 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
+          { text: '暗烛快速入门指南', link: '/1' },
+          { text: '准备工作', link: '/2' },
           // ...
         ],
       },
