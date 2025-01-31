@@ -10,7 +10,11 @@ export default defineConfig({
     nav: [
       { text: '暗烛快速入门指南', link: '/1' },
       { text: '准备工作', link: '/2' },
-
+      { text: '法则', link: '/3' },
+      { text: '机制', link: '/4' },
+      { text: '伤疤&“勋章”', link: '/5' },
+      { text: '暗烛世界观', link: '/6' },
+      
       // {
       //   text: 'Dropdown Menu',
       //   items: [
@@ -29,6 +33,10 @@ export default defineConfig({
         items: [
           { text: '暗烛快速入门指南', link: '/1' },
           { text: '准备工作', link: '/2' },
+          { text: '法则', link: '/3' },
+          { text: '机制', link: '/4' },
+          { text: '伤疤&“勋章”', link: '/5' },
+          { text: '暗烛世界观', link: '/6' },
           // ...
         ],
       },
