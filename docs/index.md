@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 暗烛快速入门指南
-  text: ver 0.0.0
+  text: ver 0.0.3
   tagline: 使用时默认已阅读最新README
   actions:
     - theme: brand
