@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: VitePress
+  name: 暗烛快速入门指南
   text: Vite & Vue powered static site generator.
   tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
   actions:

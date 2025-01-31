@@ -2,10 +2,9 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'en-US',
-  base: '/blog/',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
+  base: '/Candela_QSG/',
+  title: '暗烛快速入门指南',
+  description: '',
 
   themeConfig: {
     nav: [
