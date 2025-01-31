@@ -3,13 +3,14 @@ layout: home
 
 hero:
   name: 暗烛快速入门指南
-  text: 非官方个人翻译
-  tagline: 
+  text: ver 0.0.0
+  tagline: 使用时默认已阅读最新README
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
+      text: README
+      link: https://github.com/errrr-er/alll/tree/main
+
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Github
+      link: https://github.com/errrr-er/Candela_QSG
 ---
