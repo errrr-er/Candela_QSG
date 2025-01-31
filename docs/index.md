@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: 暗烛快速入门指南
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  text: 非官方个人翻译
+  tagline: 
   actions:
     - theme: brand
       text: Get Started
