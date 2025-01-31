@@ -7,6 +7,12 @@ export default defineConfig({
   description: '',
 
   themeConfig: {
+
+    footer: {
+      message: '本文档为非官方翻译，仅供参考。原文件版权归原作者或版权所有者所有。翻译内容旨在帮助理解原文，并非官方认证或授权的翻译版本。翻译者不对任何由于使用本翻译文件而产生的直接或间接后果承担责任。',
+      copyright: '如有任何疑问或需要原文件，建议使用首页提供的官网。'
+    },
+
     nav: [
       { text: '暗烛快速入门指南', link: '/1' },
       { text: '准备工作',
