@@ -63,17 +63,6 @@ export default defineConfig({
           { text: '名词', link: '/names/n3' },
         ]
       },
-      
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
     ],
 
     sidebar: {
