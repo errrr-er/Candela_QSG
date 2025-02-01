@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /1
+      link: /content/1
 
     - theme: brand
       text: README
