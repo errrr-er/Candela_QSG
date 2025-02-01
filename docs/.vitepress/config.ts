@@ -74,7 +74,7 @@ export default defineConfig({
           { text: '环', link: '/content/4#4.12' },
         ]
       },
-      { text: '伤疤&“勋章”', link: '/content/5' },
+      { text: '伤疤&"勋章"', link: '/content/5' },
       { text: '暗烛世界观',
         items: [
           { text: '-', link: '/content/6#6.1' },
@@ -121,7 +121,7 @@ export default defineConfig({
           { text: '环', link: '/content/4#4.12' },
         ]
       },
-      { text: '伤疤&“勋章”', link: '/content/5' },
+      { text: '伤疤&"勋章"', link: '/content/5' },
       { text: '暗烛世界观',
         items: [
           { text: '-', link: '/content/6#6.1' },
