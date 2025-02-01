@@ -80,6 +80,8 @@ export default defineConfig({
           { text: '费尔兰', link: '/content/6#6.1' },
           { text: '最后的大型战争', link: '/content/6#6.2' },
           { text: '哈尔的语言', link: '/content/6#6.3' },
+          { text: '新费尔城', link: '/content/6#6.4' },
+          { text: '三权分立', link: '/content/6#6.5' },
         ]
       },
       { text: '词译',
@@ -133,6 +135,8 @@ export default defineConfig({
           { text: '费尔兰', link: '/content/6#6.1' },
           { text: '最后的大型战争', link: '/content/6#6.2' },
           { text: '哈尔的语言', link: '/content/6#6.3' },
+          { text: '新费尔城', link: '/content/6#6.4' },
+          { text: '三权分立', link: '/content/6#6.5' },
         ]
       },
       { text: '词译',
