@@ -92,6 +92,7 @@ export default defineConfig({
     sidebar: [
       { text: '暗烛快速入门指南', link: '/content/1' },
       { text: '准备工作',
+        collapsed: true,
         items: [
           { text: '介绍', link: '/content/2#2.1' },
           { text: '内容警告&建立游玩边界线', link: '/content/2#2.2' },
@@ -99,6 +100,7 @@ export default defineConfig({
         ]
       },
       { text: '法则',
+        collapsed: true,
         items: [
           { text: '世界法则', link: '/content/3#3.1' },
           { text: '魔法法则', link: '/content/3#3.2' },
@@ -106,6 +108,7 @@ export default defineConfig({
         ]
       },
       { text: '机制',
+        collapsed: true,
         items: [
           { text: '准备工作', link: '/content/4#4.1' },
           { text: '骰子的运作', link: '/content/4#4.2' },
@@ -123,11 +126,13 @@ export default defineConfig({
       },
       { text: '伤疤&"勋章"', link: '/content/5' },
       { text: '暗烛世界观',
+        collapsed: true,
         items: [
           { text: '-', link: '/content/6#6.1' },
         ]
       },
       { text: '词译',
+        collapsed: true,
         items: [
           { text: '职业', link: '/names/n1' },
           { text: '属性', link: '/names/n2' },
