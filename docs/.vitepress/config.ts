@@ -76,14 +76,8 @@ export default defineConfig({
       // ...
     ],
 
-    sidebar: [
-      {
-        // text: 'Guide',
-        items: [
-          { text: '以后一定补.jpg', link: '/index' },
-          // ...
-        ],
-      },
-    ],
+    sidebar: {
+      
+    },
   },
 });
