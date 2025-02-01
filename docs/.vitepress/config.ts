@@ -77,7 +77,9 @@ export default defineConfig({
       { text: '伤疤&"勋章"', link: '/content/5' },
       { text: '暗烛世界观',
         items: [
-          { text: '-', link: '/content/6#6.1' },
+          { text: '法尔兰', link: '/content/6#6.1' },
+          { text: '最后的大型战争', link: '/content/6#6.2' },
+          { text: '哈尔的语言', link: '/content/6#6.3' },
         ]
       },
       { text: '词译',
@@ -128,7 +130,9 @@ export default defineConfig({
       { text: '暗烛世界观',
         collapsed: true,
         items: [
-          { text: '-', link: '/content/6#6.1' },
+          { text: '法尔兰', link: '/content/6#6.1' },
+          { text: '最后的大型战争', link: '/content/6#6.2' },
+          { text: '哈尔的语言', link: '/content/6#6.3' },
         ]
       },
       { text: '词译',
